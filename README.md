@@ -1,6 +1,6 @@
 # backend 
 
-step one create expess file require dependenceis
+step install  required dependenceis/module
 -express 
 -mysql2
 -dotenv
